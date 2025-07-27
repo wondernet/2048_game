@@ -4,3 +4,6 @@ A program that automatically plays 2048 game on http://wildcryptokid.com/2048/ga
 # requirements
 selenium
  - pip install selenium
+
+# how to run
+python play_2048.py
