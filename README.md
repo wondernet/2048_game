@@ -10,3 +10,5 @@ selenium
 
 # how to run
 python play_2048.py
+
+![Demo!](2048_game_example.png)
